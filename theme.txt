@@ -18,9 +18,9 @@ terminal-font: "Unknown Regular 16"
 
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade240 85"
@@ -37,9 +37,9 @@ terminal-font: "Unknown Regular 16"
 }
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade208 85"
@@ -56,9 +56,9 @@ terminal-font: "Unknown Regular 16"
 }
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade176 85"
@@ -75,9 +75,9 @@ terminal-font: "Unknown Regular 16"
 }
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade144 85"
@@ -94,9 +94,9 @@ terminal-font: "Unknown Regular 16"
 }
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade112 85"
@@ -113,9 +113,9 @@ terminal-font: "Unknown Regular 16"
 }
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade80 85"
@@ -132,9 +132,9 @@ terminal-font: "Unknown Regular 16"
 }
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade48 85"
@@ -151,9 +151,9 @@ terminal-font: "Unknown Regular 16"
 }
 
 + boot_menu {
-	left = 50%-600
+	left = 10%
 	top = 32%
-	width = 50%+600
+	width = 90%
 	height = 68%
 
 	item_font = "DoomShade Regular shade16 85"
